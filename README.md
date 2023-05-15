@@ -12,7 +12,7 @@ Focus on:
 Learning Goals:
 - develop familiarity with common commands
 
-Basic preparation for using python to deal with data, and a stepping stone to more advanced procedures. 
+Basic preparation for using python to deal wgoith data, and a stepping stone to more advanced procedures. 
 Python is a great language for building data applications. 
 Interpeted vs compiled language. Python=int, C++=compilied. Interpreted is slower, but easier to code with.
 Class = type
@@ -45,3 +45,9 @@ Ipython
 
 Analysis types:
 - sentiment analysis: processing words of news and social media to understand what people feel.
+
+
+
+Troubleshooting:
+- Matplotlib version error while installing. Solution:
+-- python -m pip install -U matplotlib==3.3.0

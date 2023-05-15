@@ -1,0 +1,22 @@
+Palette # 1 
+#2a7b9b - blue
+#3d3d6b - blue purple
+#511849 - purple
+#900c3f - red purple
+#c70039 - red
+#ff5733 - red orange
+#ff8d1a - orange
+#ffc300 - orange yellow
+#eddd53 - yellow
+#add45c - yellow green
+#57c785 - green
+#00baad - blue green
+
+
+-- Palette #2
+
+#214451 - dark blue
+#2a998b - green
+#e7c267 - yellow
+#e56c50 - red
+#f0f2bd - pale yellow
